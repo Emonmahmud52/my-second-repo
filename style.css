@@ -1,0 +1,98 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.flexible-area{
+    display: flex;
+    padding: 50px;
+}
+.orange-color{
+    color: tomato;
+}
+.half-width{
+    width: 50%;
+    padding: 35px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    line-height: 30px;
+    opacity: 0.7;
+}
+h1{
+    font-size: 50px;
+    line-height: 40px;
+    font-weight: 900;
+    opacity: 0.7;
+}
+a{
+    background-color: orangered;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.second-section{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin: 0 -5px;
+    height: 600px;
+}
+.second{
+    width: 27%;
+    margin: 20px 30px 0 30px;
+    
+}
+.third{
+    text-align: justify;
+    margin: 20px 10px 0px 50px;
+}
+.third h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.third-section{
+    text-align: center;
+}
+.third-section h1{
+    font-size:30px;
+}
+
+.foodpic{
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 0 5%;
+    border-radius: 15px;
+    background-color: rgb(241, 236, 236);
+    padding: 15px 15px 0 15px;
+    line-height: 30px;
+    color: ;
+}
+.foodpic img{
+    border-radius: 15px;}
+
+.measure-area{
+    background-color: rgb(241, 236, 236);
+    padding: 0 20px;
+    text-align: center;
+    border-radius: 10px;
+    width: 40%;
+    
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.87);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.521));
+    text-align: center;
+    padding: 40px;
+    margin: 0 -10px;
+}
+.orange-color{
+    color: rgb(255, 30, 0);
+}
+.heading1{
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.para{
+    color: white;
+}
